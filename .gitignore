@@ -1,1 +1,6 @@
+# Environmental varialbles 
 .env
+
+# Dependenciews
+node_modules
+package-lock.json
